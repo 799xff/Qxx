@@ -1,6 +1,3 @@
-[rewrite_local]
-^https:\/\/api\.xunjiapp\.cn\/whole_user_info_v4 url script-request-https://github.com/799xff/Qxx/blob/main/dudu.js
-
 
 [mitm]
 hostname = api.xunjiapp.cn
